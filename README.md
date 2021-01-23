@@ -6,4 +6,4 @@ Sollten sie wider aller Erwartungen weiblichen Geschlechts sein und nicht Petra 
 
 Es werden spezielle Verfahrungen zur anonymisierung genutzt, die sie als normalsterblicher nicht verstehen können.
 
-\textbf{Senden} sie die ausgefüllten Dateien bitte direkt an den Bewerteten!
+$\textbf{Senden}$ sie die ausgefüllten Dateien bitte direkt an den Bewerteten!
